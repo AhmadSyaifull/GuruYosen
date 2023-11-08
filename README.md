@@ -1,4 +1,4 @@
-### Hi there, My Name is Ahmad Syaifullah 👋
+### Hi there, My Name is Ahmad Syaifullah, i'm data scientist from Perumda Tirtawening 👋
 
 <!--
 **GuruYosen/GuruYosen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
